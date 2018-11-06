@@ -9,13 +9,27 @@ def third_challenge
         :name => "",
         :age => ""
       },
-      :hero => {},
+      :hero => {
+        :name => "",
+        :age => ""
+        :status => ""
+      },
       :hero_friends => []
     },
     :capulet => {
-      :patriarch => {},
-      :matriarch => {},
-      :heroine => {},
+      :patriarch => {
+        :name => "",
+        :age => ""
+      },
+      :matriarch => {
+        :name => "",
+        :age => ""
+      },
+      :heroine => {
+        :name => "",
+        :age => ""
+        :status => ""
+      },
       :heroine_friends => []
     }
   }
