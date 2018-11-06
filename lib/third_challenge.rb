@@ -5,7 +5,10 @@ def third_challenge
         :name => "",
         :age => ""
       },
-      :matriarch => {},
+      :matriarch => {
+        :name => "",
+        :age => ""
+      },
       :hero => {},
       :hero_friends => []
     },
